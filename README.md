@@ -8,9 +8,11 @@ The container mounts the gpfs filesystem and gpfs fuse filesystem, the files in 
 
 ## Demo
 gpfs file
+
 ![orignal_file](img/original_file.jpg)
 
 gpfs-fuse file
+
 ![container_file](img/container_file.jpg)
 
 ## Getting started
